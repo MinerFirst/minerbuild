@@ -1,0 +1,5 @@
+spec/images/*
+.idea
+*.lock
+*.gem
+**/.DS_Store
